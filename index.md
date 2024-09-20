@@ -4,14 +4,14 @@ layout: home
 
 hero:
   name: "片刻英语"
-  text: "一个英语练习工具"
-  tagline: My great project tagline
+  # text: "一个英语练习工具"
+  tagline: 一个英语练习工具
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 下载
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 反馈
       link: /api-examples
 
 features:
