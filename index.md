@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "片刻英语"
   # text: "一个英语练习工具"
-  tagline: 一个英语练习工具
+  tagline: "A 练习 English 的 tool."
   actions:
     - theme: brand
       text: 下载

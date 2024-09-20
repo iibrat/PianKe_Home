@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "片刻英语",
-  description: "一个英语练习工具",
+  description: "A 练习 English 的 tool.",
   base: "/PianKe_Home/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -22,8 +22,8 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+    // ]
   }
 })
